@@ -1,8 +1,5 @@
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulerein&layout=compact&theme=dracula" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nulerein&show_icons=true&theme=radical" alt="GitHub Stats" />
-
 </div>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
